@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autoUploadWebApi", "autoUploadWebApi\autoUploadWebApi.csproj", "{8B8A15B3-167A-4800-8080-6152648C05DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B8A15B3-167A-4800-8080-6152648C05DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8A15B3-167A-4800-8080-6152648C05DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8A15B3-167A-4800-8080-6152648C05DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8A15B3-167A-4800-8080-6152648C05DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73B939CA-C68A-4B0E-AE83-C05742BCB48B}
+	EndGlobalSection
+EndGlobal
